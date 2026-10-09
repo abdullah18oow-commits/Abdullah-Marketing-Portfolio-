@@ -1,0 +1,637 @@
+﻿[
+  {
+    "id": "collagatin",
+    "slug": "collagatin",
+    "brand": "Nutrifactor",
+    "product": "Collagatin (Marine Collagen)",
+    "format": "Instagram Video + Paid Ads (9:16 Vertical)",
+    "title": "Water vs. Water Pro Max",
+    "headline": "Two glasses. Two personalities. One clear winner.",
+    "category": "Product Battle / Face-Off",
+    "heroImage": "./assets/hero/hero_card_collagatin.png",
+    "fullSlide": "./assets/case-studies/Collagatin_Case_Study_Portrait_With_Images/slide_full.png",
+    "accentColor": "#f43f5e",
+    "themeBg": "#fff1f2",
+    "videoDuration": "0:42",
+    "videoUrl": "https://youtube.com/shorts/qSesdX1gzpw?feature=share",
+    "aspectRatio": "9:16",
+    "demoThumbnail": "./assets/hero/hero_card_collagatin.png",
+    "role": "Concept · Script · Set Direction · Talent Direction · Edit Direction",
+    "brief": {
+      "take": "TAKE 2 · THE BRIEF",
+      "title": "Upgrading a Universal Habit",
+      "content": "Collagatin is a marine collagen supplement, and collagen is a crowded, jargon-heavy category. Meanwhile, people already believe in one simple habit for glowing skin: drinking water. My job was to make Collagatin feel like the obvious upgrade to something people already do, in a feed where people see similar information on loop."
+    },
+    "idea": {
+      "take": "TAKE 3 · THE IDEA",
+      "title": "Give the habit a personality. Let the upgrade win.",
+      "content": "Instead of explaining collagen with dry clinical jargon, I put plain water and Collagatin in a theatrical face-off. Water gets a deep, dramatic, overly serious voice and a plain white background. Collagatin gets a cheery, modern voice and a bright pink backdrop. The visual contrast tells the story before a single benefit is spoken. A rivalry is inherently entertaining, easy to watch, and memorable."
+    },
+    "scriptBeats": [
+      {
+        "beat": "The Setup",
+        "time": "0:00 - 0:04",
+        "happens": "“This… is a glass of water.” (deep, dramatic voice) — “And this… is Water Pro Max, with Nutrifactor’s Collagatin.” (cheery voice)",
+        "why": "Two contrasting voices and moods establish the comedic rivalry in under 4 seconds."
+      },
+      {
+        "beat": "The Look",
+        "time": "0:04 - 0:10",
+        "happens": "Water on the left against clean clinical white. Collagatin on the right against energetic pink. Distinct title cards.",
+        "why": "Instant visual contrast. Viewers immediately register pink as the modern upgrade."
+      },
+      {
+        "beat": "The Comebacks",
+        "time": "0:10 - 0:22",
+        "happens": "Water boasts (“the mountain spring in a cup”). Collagatin counters with proof: 6000mg marine collagen, skin elasticity, hair, joints, gut.",
+        "why": "Delivers concrete health benefits as snappy debate rebuttals rather than a boring bullet list."
+      },
+      {
+        "beat": "The Banter",
+        "time": "0:22 - 0:30",
+        "happens": "“I am the OG.” / “And I’m the Upgrade.” — “I’m the legend.” / “And I’m the Science.”",
+        "why": "Rhythmic call-and-response escalation that is punchy, relatable, and easy to quote."
+      },
+      {
+        "beat": "The Wink",
+        "time": "0:30 - 0:34",
+        "happens": "Collagatin winks and takes a triumphant sip while Water looks visibly offended.",
+        "why": "A human character moment that seals the emotional win with charm."
+      },
+      {
+        "beat": "The Turn & CTA",
+        "time": "0:34 - 0:42",
+        "happens": "“Water is great, but sometimes you need something better.” End Card: “Water + Collagatin = Beauty at its finest.”",
+        "why": "Respects water so the CTA is an additive upgrade rather than an unrealistic replacement."
+      }
+    ],
+    "claimsNote": "Benefits are carefully phrased as 'helps' and 'supports', never claiming a medical cure. Collagatin is positioned as an add-on habit to daily water.",
+    "behindTheScenes": [
+      {
+        "label": "The Set",
+        "desc": "A clean white side for Water and a bright pink side for Collagatin, split precisely down the middle of the frame.",
+        "image": "./assets/case-studies/Collagatin_Case_Study_Portrait_With_Images/image2.png"
+      },
+      {
+        "label": "The Camera",
+        "desc": "Vertical 9:16 mobile framing. Locked split-screen during the face-off, transitioning into a dynamic punch-in for the product finish.",
+        "image": "./assets/case-studies/Collagatin_Case_Study_Portrait_With_Images/image3.png"
+      },
+      {
+        "label": "The Performance",
+        "desc": "Directed the host through dual personas: a deadpan, slightly offended Water in grey/black, and an effervescent Collagatin in white & stripes.",
+        "image": "./assets/case-studies/Collagatin_Case_Study_Portrait_With_Images/image4.png"
+      },
+      {
+        "label": "The Edit",
+        "desc": "Kinetic on-screen text anchors key claims (6000mg, Joint Support), sparkling visual accents for Collagatin, and an anger-meter animation for Water.",
+        "image": "./assets/case-studies/Collagatin_Case_Study_Portrait_With_Images/image5.png"
+      }
+    ],
+    "outcomes": {
+      "distribution": "Posted organically on Nutrifactor's Instagram Reels, then scaled as the primary top-of-funnel creative for Meta Paid Ads.",
+      "feedOptimization": "A high-contrast visual face-off that communicates value instantly on mute. The closing line leaves zero friction for purchase.",
+      "nextIteration": "Shoot standalone modular benefit clips for dynamic product retargeting ads."
+    }
+  },
+  {
+    "id": "extrac-serum",
+    "slug": "extrac-serum",
+    "brand": "Cellcense by Nutrifactor",
+    "product": "Extra-C Serum",
+    "format": "Short Product Video (9:16 Vertical)",
+    "title": "Smudge. Wipe. Spotless.",
+    "headline": "Show “spotless” before you say it.",
+    "category": "Visual Hook / Pattern Interrupt",
+    "heroImage": "./assets/hero/hero_card_extrac.png",
+    "fullSlide": "./assets/case-studies/ExtraC_Case_Study_Portrait/slide_full.png",
+    "accentColor": "#f97316",
+    "themeBg": "#fff7ed",
+    "videoDuration": "0:32",
+    "videoUrl": "https://youtube.com/shorts/devxN2Xhyl8",
+    "aspectRatio": "9:16",
+    "demoThumbnail": "./assets/hero/hero_card_extrac.png",
+    "role": "Concept · Script · Set Direction · Talent Direction · Edit Direction",
+    "brief": {
+      "take": "TAKE 2 · THE BRIEF",
+      "title": "Letting Visuals Do The Selling",
+      "content": "Cellcense Extra-C Serum is a Vitamin C brightening serum, and this video has just one line of script. That meant the visual had to do the selling. My job was to make “spotless” something viewers see in the first seconds, and to make a short, simple product video fun enough to watch to the end."
+    },
+    "idea": {
+      "take": "TAKE 3 · THE IDEA",
+      "title": "Show “spotless” before you say it.",
+      "content": "The video opens on a black smudge on the “screen”, the kind everyone has on their phone. A drop of serum wipes it clean, so the benefit is demonstrated before anyone says it. Then the product name flies in and bonks the host on the head, which turns the title into a character and keeps the tone light. I skipped a benefits voiceover. With one line of script, the gag is the message."
+    },
+    "scriptBeats": [
+      {
+        "beat": "The Entrance",
+        "time": "0:00 - 0:02",
+        "happens": "The host walks into frame.",
+        "why": "Movement in the first second."
+      },
+      {
+        "beat": "The Smudge",
+        "time": "0:02 - 0:05",
+        "happens": "A black smudge sits on the “screen”, like on a phone display.",
+        "why": "Viewers instinctively check their own screen, creating a perfect pattern interrupt."
+      },
+      {
+        "beat": "The Wipe",
+        "time": "0:05 - 0:12",
+        "happens": "She puts a drop of serum on the smudge and wipes it away, like cleaning a mirror.",
+        "why": "“Spotless” is shown, not claimed."
+      },
+      {
+        "beat": "The Hit",
+        "time": "0:12 - 0:18",
+        "happens": "“Extra-C Serum” flies in from outside the frame and hits her on the head.",
+        "why": "A slapstick gag that makes the title a character."
+      },
+      {
+        "beat": "The Wait",
+        "time": "0:18 - 0:24",
+        "happens": "She points at the text to wait a second, sits down, then gestures it back in.",
+        "why": "She stays in control, resetting the frame for the pitch."
+      },
+      {
+        "beat": "The Line",
+        "time": "0:24 - 0:32",
+        "happens": "“Cellcense Extra-C Serum, for smooth, spotless and glowing skin.”",
+        "why": "One short line that echoes the wipe from the opening."
+      }
+    ],
+    "claimsNote": "The demo wipes a screen, not skin, so the visual makes no medical skin claim. The benefit is stated once, in the closing line.",
+    "behindTheScenes": [
+      {
+        "label": "The Set",
+        "desc": "A bright, warm corner with an arched mirror, palms, a teal armchair and window light. The host’s cream outfit keeps it clean, and the orange titles echo the bottle.",
+        "image": "./assets/case-studies/ExtraC_Case_Study_Portrait/image2.png"
+      },
+      {
+        "label": "The Camera",
+        "desc": "The wipe is played directly to the lens, turning the camera glass into the smudged screen.",
+        "image": "./assets/case-studies/ExtraC_Case_Study_Portrait/image3.png"
+      },
+      {
+        "label": "The Performance",
+        "desc": "Comic timing: the hit, the look up at the text, and the playful “wait a second” point.",
+        "image": "./assets/case-studies/ExtraC_Case_Study_Portrait/image4.png"
+      },
+      {
+        "label": "The Edit",
+        "desc": "The kinetic title text flies in from off-screen and out again, precisely timed to her gestures.",
+        "image": "./assets/case-studies/ExtraC_Case_Study_Portrait/image5.png"
+      }
+    ],
+    "outcomes": {
+      "distribution": "Posted on Nutrifactor & Cellcense Instagram, then handed to the media buying team to run as high-performing paid ads.",
+      "feedOptimization": "A visual gag in the first second, a product name on screen that works with sound off, and one short benefit line.",
+      "nextIteration": "Test interactive poll stickers asking viewers if they wiped their own phone screen."
+    }
+  },
+  {
+    "id": "bzolve",
+    "slug": "bzolve",
+    "brand": "Nutrifactor",
+    "product": "BZOLVE (Vitamin B12)",
+    "format": "Instagram Reel + Paid Performance Video (9:16 Vertical)",
+    "title": "Chai. Energy. Crash.",
+    "headline": "Show the loop before you sell the fix.",
+    "category": "Behavioral Loop / Comedy Relatable",
+    "heroImage": "./assets/hero/hero_card_bzolve.png",
+    "fullSlide": "./assets/case-studies/BZOLVE_Case_Study_Portrait/slide_full.png",
+    "accentColor": "#0284c7",
+    "themeBg": "#f0f9ff",
+    "videoDuration": "0:36",
+    "videoUrl": "https://youtube.com/shorts/IVA83l1AHTg?feature=share",
+    "aspectRatio": "9:16",
+    "demoThumbnail": "./assets/hero/hero_card_bzolve.png",
+    "role": "Concept · Script · Set Direction · Talent Direction · Edit Direction",
+    "brief": {
+      "take": "TAKE 2 · THE BRIEF",
+      "title": "Addressing The Afternoon Energy Dip",
+      "content": "Chai or coffee is a daily routine for millions, yet the inevitable mid-day crash is an experience everyone recognizes. My task was to reflect that frustrating caffeine cycle with humor and authenticity, then seamlessly introduce Nutrifactor BZOLVE (Vit. B12) as a sustained energy supporter."
+    },
+    "idea": {
+      "take": "TAKE 3 · THE IDEA",
+      "title": "Show the loop before you sell the fix.",
+      "content": "Chai. Energy. Crash. Three simple words, three visual icons, and the viewer understands the entire cycle in four seconds. By repeating cuts faster and faster, the loop tightens with visual anxiety. A sudden rewind sound effect acts as a pattern interrupt, resetting attention back to Sarah, who mistakenly thinks another cup of chai will solve exhaustion."
+    },
+    "scriptBeats": [
+      {
+        "beat": "The Hook",
+        "time": "0:00 - 0:03",
+        "happens": "Host gets up abruptly from her desk and passionately demands: 'One more chai!'",
+        "why": "Starts mid-action with high energy and an immediate relatable workplace craving."
+      },
+      {
+        "beat": "The Loop",
+        "time": "0:03 - 0:07",
+        "happens": "“Chai” (tea cup icon) → “Energy” (electric lightning icon) → “Crash” (hazard warning sign).",
+        "why": "Communicates the emotional and physical arc in four seconds."
+      },
+      {
+        "beat": "The Speed-Up",
+        "time": "0:07 - 0:12",
+        "happens": "Rapid-fire repeating montage of Chai, Energy, Crash, accelerating in tempo with frantic sound design.",
+        "why": "Mimics caffeine anxiety and tightens viewer retention as the habit repeats."
+      },
+      {
+        "beat": "The Rewind",
+        "time": "0:12 - 0:14",
+        "happens": "VCR rewind visual glitch with tape-rewind sound effect: 'Let’s see how we got here.'",
+        "why": "A vital pattern interrupt right at the drop-off threshold (12s) to restart viewer curiosity."
+      },
+      {
+        "beat": "The Character & Reveal",
+        "time": "0:14 - 0:26",
+        "happens": "“This is Sarah. She thinks chai solves everything. Low energy? Chai. Let’s see… Tadaaaa… NOPE!”",
+        "why": "Builds comic expectation followed by humorous physical deflation as she collapses onto her laptop."
+      },
+      {
+        "beat": "The Turn & CTA",
+        "time": "0:27 - 0:36",
+        "happens": "“Do not be like Sarah. Support sustained cellular energy with Nutrifactor BZOLVE Vitamin B12.”",
+        "why": "Friendly conversational peer tone ('Don’t be like Sarah') leading into a clear clinical benefit."
+      }
+    ],
+    "claimsNote": "Copy specifically specifies 'supports sustained energy levels' without overstepping medicinal promises.",
+    "behindTheScenes": [
+      {
+        "label": "The Set",
+        "desc": "Ultra-minimal white desk with clean background and laptop. Eliminates visual clutter to maximize focus on Sarah's expressions.",
+        "image": "./assets/case-studies/BZOLVE_Case_Study_Portrait/image1.png"
+      },
+      {
+        "label": "The Camera",
+        "desc": "Coached the videographer to mix static tripod framing with a dynamic gimbal 'helicopter' arc shot during the high-energy realization.",
+        "image": "./assets/case-studies/BZOLVE_Case_Study_Portrait/image3.png"
+      },
+      {
+        "label": "The Performance",
+        "desc": "Guided the host through multiple takes to balance genuine workplace exhaustion with subtle comedic exaggeration.",
+        "image": "./assets/case-studies/BZOLVE_Case_Study_Portrait/image4.png"
+      },
+      {
+        "label": "The Edit",
+        "desc": "Directed the animator on custom motion stickers, electrical sparks on 'ENERGY', and the tempo ramp into the rewind audio effect.",
+        "image": "./assets/case-studies/BZOLVE_Case_Study_Portrait/image6.png"
+      }
+    ],
+    "outcomes": {
+      "distribution": "Rolled out on Nutrifactor's Instagram and scaled into high-converting Meta prospecting ad sets.",
+      "feedOptimization": "The question-led opening and bold kinetic text icons ensure the message lands even when viewed on mute.",
+      "nextIteration": "Test variation with morning coffee vs. evening fatigue to expand target audience segments."
+    }
+  },
+  {
+    "id": "cellcense",
+    "slug": "cellcense",
+    "brand": "Nutrifactor × Cellcense",
+    "product": "Supplements + Skincare Dual Routine",
+    "format": "Dual-Brand Commercial (9:16 Vertical)",
+    "title": "Inside Out, Side by Side",
+    "headline": "Uniting beauty supplements with topical skincare.",
+    "category": "Brand Launch / Routine Architecture",
+    "heroImage": "./assets/hero/hero_card_cellcense.png",
+    "fullSlide": "./assets/case-studies/Cellcense_Case_Study_Portrait/slide_full.png",
+    "accentColor": "#0ea5e9",
+    "themeBg": "#f0fdf4",
+    "videoDuration": "0:45",
+    "videoUrl": "https://youtube.com/shorts/q_CKf4BFhlg?feature=share",
+    "aspectRatio": "9:16",
+    "demoThumbnail": "./assets/hero/hero_card_cellcense.png",
+    "role": "Concept · Script · Set Direction · Talent Direction · Edit Direction",
+    "brief": {
+      "take": "TAKE 2 · THE BRIEF",
+      "title": "Bridging Two Sister Brands",
+      "content": "Cellcense was a brand-new skincare line, while Nutrifactor already commanded deep consumer trust in ingestible beauty vitamins. The challenge was introducing Cellcense as an organic extension of the Nutrifactor family, positioning topical skincare and ingestible vitamins as one cohesive daily regimen."
+    },
+    "idea": {
+      "take": "TAKE 3 · THE IDEA",
+      "title": "Inside on one side. Outside on the other.",
+      "content": "Instead of overwhelming the audience with a laundry list of products, the entire video was built around natural pairings. The script opens with universal matches everyone loves (chai with rain, fries with ketchup), making supplement + serum feel intuitively obvious. The table and screen are color-blocked into two distinct halves so the viewer grasps the concept before a word is spoken."
+    },
+    "scriptBeats": [
+      {
+        "beat": "The Analogy Hook",
+        "time": "0:00 - 0:06",
+        "happens": "“Some things just belong together, right? Tea with rain, fries with ketchup.”",
+        "why": "Grounds the concept in familiar universal duos before introducing any commercial products."
+      },
+      {
+        "beat": "The Visual Split",
+        "time": "0:06 - 0:12",
+        "happens": "Host gestures left to Nutrifactor ingestibles, then right to Cellcense topicals.",
+        "why": "Immediately teaches the viewer the visual language: Left = Inside, Right = Outside."
+      },
+      {
+        "beat": "The Synergistic Pairs",
+        "time": "0:12 - 0:32",
+        "happens": "Showcases Butex supplement paired with Hyaluronic & Collagen Serum. Clean 1-sentence synergistic benefit for each combo.",
+        "why": "Modular structure: repeat the same predictable pattern so the viewer effortlessly retains each pair."
+      },
+      {
+        "beat": "The Sign-Off",
+        "time": "0:32 - 0:45",
+        "happens": "“Your inside-out combos that just work. With Nutrifactor and Cellcense.”",
+        "why": "Unifies both brand identities in a single sticky tagline."
+      }
+    ],
+    "claimsNote": "Warm, conversational beauty tone ('match made in glow heaven') rather than sterile medical language.",
+    "behindTheScenes": [
+      {
+        "label": "The Set",
+        "desc": "Custom color-blocked table: crisp white on the left, sky blue on the right, matching the graphic split in post-production.",
+        "image": "./assets/case-studies/Cellcense_Case_Study_Portrait/image2.png"
+      },
+      {
+        "label": "The Camera",
+        "desc": "Locked tripod vertical composition with the host centered precisely on the split dividing line to emphasize duality.",
+        "image": "./assets/case-studies/Cellcense_Case_Study_Portrait/image3.png"
+      },
+      {
+        "label": "The Performance",
+        "desc": "Trained the host to fluidly handle bottles on both sides without blocking product labels or losing eye contact.",
+        "image": "./assets/case-studies/Cellcense_Case_Study_Portrait/image4.png"
+      },
+      {
+        "label": "The Edit",
+        "desc": "Crisp animated dividing line with matching brand color palettes and dual logo reveals.",
+        "image": "./assets/case-studies/Cellcense_Case_Study_Portrait/image5.png"
+      }
+    ],
+    "outcomes": {
+      "distribution": "Co-promoted across Nutrifactor and Cellcense digital channels and cut into 15-second individual pairing ads.",
+      "feedOptimization": "Modular design allowed the media team to slice every pairing into a standalone conversion asset.",
+      "nextIteration": "Explore split-screen user generated unboxings following the exact same inside-out formula."
+    }
+  },
+  {
+    "id": "creatine",
+    "slug": "creatine",
+    "brand": "Nutrifactor",
+    "product": "Creatine Monohydrate",
+    "format": "Cinematic Gym Film (9:16 Vertical)",
+    "title": "Get the Best to Be the Best",
+    "headline": "Cinematic gym commercial with an elite athlete.",
+    "category": "Sports Nutrition / High Intensity",
+    "heroImage": "./assets/case-studies/Creatine_Case_Study_Portrait/image1.png",
+    "fullSlide": "./assets/case-studies/Creatine_Case_Study_Portrait/slide_full.png",
+    "accentColor": "#dc2626",
+    "themeBg": "#fef2f2",
+    "videoDuration": "0:38",
+    "videoUrl": "https://youtube.com/shorts/RXhZoIrSrSM?feature=share",
+    "aspectRatio": "9:16",
+    "demoThumbnail": "./assets/case-studies/Creatine_Case_Study_Portrait/image1.png",
+    "role": "Concept · Script · Set Direction · Talent Direction · Edit Direction",
+    "brief": {
+      "take": "TAKE 2 · THE BRIEF",
+      "title": "Standing Out In Hardcore Fitness",
+      "content": "Creatine is one of the most widely used supplements in fitness, and gym-goers are notoriously skeptical of generic influencer ads. My mandate was to introduce Nutrifactor’s Creatine Monohydrate to both serious powerlifters and everyday fitness enthusiasts with undeniable authenticity and grit."
+    },
+    "idea": {
+      "take": "TAKE 3 · THE IDEA",
+      "title": "Shoot it like a film. Say it like a coach.",
+      "content": "We took the production into an authentic warehouse gym with a competitive bodybuilder. The creative intercuts high-energy cinematic lifting sequences with direct, intimate eye-contact delivery. The sweat and intensity provide the emotional credibility, while the direct address lands the science."
+    },
+    "scriptBeats": [
+      {
+        "beat": "The Intro Hook",
+        "time": "0:00 - 0:04",
+        "happens": "Bodybuilder pushes the red Creatine tub directly toward the camera as it dolly-zooms in.",
+        "why": "A confident, aggressive product-first opening that demands attention in the feed."
+      },
+      {
+        "beat": "The Authority Stamp",
+        "time": "0:04 - 0:10",
+        "happens": "“By Pakistan’s No. 1 Vitamin Brand, Nutrifactor.” Cinematic multi-angle macro B-roll of powder & bottle.",
+        "why": "Instills institutional brand authority while preserving visual momentum."
+      },
+      {
+        "beat": "The Dual Audience",
+        "time": "0:10 - 0:20",
+        "happens": "“Whether you’re a high-performance athlete or just hitting the gym after work...”",
+        "why": "Inclusive positioning: validates serious lifters without intimidating recreational athletes."
+      },
+      {
+        "beat": "The Benefit Stack",
+        "time": "0:20 - 0:30",
+        "happens": "Power lifting cuts highlighting: Explosive strength, muscle recovery, endurance, and cognitive performance.",
+        "why": "Stacks tangible physical benefits, finishing with the lesser-known mental focus benefit as a hook."
+      },
+      {
+        "beat": "The Closer",
+        "time": "0:30 - 0:38",
+        "happens": "“If you are serious about your journey, get the best to be the best.”",
+        "why": "A punchy motivational closing line that works simultaneously as a CTA and brand mantra."
+      }
+    ],
+    "claimsNote": "Benefits framed strictly around certified performance enhancement and cellular ATP synthesis.",
+    "behindTheScenes": [
+      {
+        "label": "The Set",
+        "desc": "Moody warehouse gym lit with cinematic teal backlights, neon red rim lights, and atmospheric haze.",
+        "image": "./assets/case-studies/Creatine_Case_Study_Portrait/image2.png"
+      },
+      {
+        "label": "The Camera",
+        "desc": "Fast handheld tracking shots following heavy dumbbell rows, contrasted with locked push-in dialogue shots.",
+        "image": "./assets/case-studies/Creatine_Case_Study_Portrait/image3.png"
+      },
+      {
+        "label": "The Performance",
+        "desc": "Cast a real competitive athlete who lifted genuine heavy weight on set to capture raw effort and real sweat.",
+        "image": "./assets/case-studies/Creatine_Case_Study_Portrait/image4.png"
+      },
+      {
+        "label": "The Edit",
+        "desc": "Bold red and white typography ('HIGH PERFORMANCE', 'RECOVERY') paired with bass-heavy sound design.",
+        "image": "./assets/case-studies/Creatine_Case_Study_Portrait/image5.png"
+      }
+    ],
+    "outcomes": {
+      "distribution": "Targeted fitness campaigns on Instagram and TikTok, driving direct traffic to Nutrifactor’s sports catalog.",
+      "feedOptimization": "High contrast visuals and bold subtitles make the video impactful with sound on or off.",
+      "nextIteration": "Introduce quick locker room Q&A clips addressing common creatine misconceptions."
+    }
+  },
+  {
+    "id": "fero",
+    "slug": "fero",
+    "brand": "Nutrifactor",
+    "product": "Fero (Iron Supplement)",
+    "format": "Instagram Video + Paid Ads (9:16 Vertical)",
+    "title": "Stand Up. Spin. Sit Down.",
+    "headline": "One person. One sofa. One very bad decision to stand up too fast.",
+    "category": "Consumer Insight / Symptom Immersion",
+    "heroImage": "./assets/hero/hero_card_fero.png",
+    "fullSlide": "./assets/case-studies/Fero_Case_Study_Portrait/image1.png",
+    "accentColor": "#ef4444",
+    "themeBg": "#fef2f2",
+    "videoDuration": "0:30",
+    "videoUrl": "https://youtube.com/shorts/W8keo0yOYQ8?feature=share",
+    "aspectRatio": "9:16",
+    "demoThumbnail": "./assets/hero/hero_card_fero.png",
+    "role": "Concept · Script · Set Direction · Talent Direction · Edit Direction",
+    "brief": {
+      "take": "TAKE 2 · THE BRIEF",
+      "title": "Connecting a Universal Feeling to Low Iron",
+      "content": "Ramadan is when people become acutely conscious of daily energy dips, and that sudden head rush after standing up too quickly is an experience almost everyone recognizes. My mission was to connect that relatable micro-moment directly to low iron levels and introduce Nutrifactor Fero as the everyday solution."
+    },
+    "idea": {
+      "take": "TAKE 3 · THE IDEA",
+      "title": "Don't explain dizziness. Put the viewer inside it.",
+      "content": "Most supplement commercials explain symptoms with dry clinical graphics. I wanted the audience to physically feel the sensation. Using purposeful gimbal movement, camera shake, and a dynamic vertigo blur, the viewer experiences Sarah's head rush first-hand—ensuring the product message lands after they have already emotionally related to the problem."
+    },
+    "scriptBeats": [
+      {
+        "beat": "The Setup",
+        "time": "0:00 - 0:04",
+        "happens": "“This is Sarah, she is fasting.” Sarah sits comfortably on the sofa reading a book.",
+        "why": "Establishes a relatable character and an immediate, timely context in a single opening line."
+      },
+      {
+        "beat": "The Tease",
+        "time": "0:04 - 0:10",
+        "happens": "“She doesn't know it yet, but she's about to feel so dizzy due to low iron levels.”",
+        "why": "A powerful open curiosity loop that keeps viewers hooked, waiting for the imminent physical payoff."
+      },
+      {
+        "beat": "The Moment",
+        "time": "0:10 - 0:18",
+        "happens": "Sarah stands up abruptly. The camera tilts, shakes, and blurs in an intense vertigo effect with sound design.",
+        "why": "The symptom is visceral and shown, not told—creating an immediate pattern interrupt on the vertical feed."
+      },
+      {
+        "beat": "The Twist",
+        "time": "0:18 - 0:23",
+        "happens": "Sarah slumps back onto the sofa holding her head. Voiceover delivers with dry warmth: “Yes... sit down.”",
+        "why": "The voiceover reacts like an empathetic friend in the room, injecting humor, relief, and personality."
+      },
+      {
+        "beat": "The Turn & CTA",
+        "time": "0:23 - 0:30",
+        "happens": "“Don't be like her. Support your iron levels this Ramadan with Nutrifactor Fero.” Product bottle reveal.",
+        "why": "Delivers a clear, actionable Call to Action seamlessly tied to seasonal wellness support."
+      }
+    ],
+    "claimsNote": "The video carefully illustrates that low iron can contribute to dizziness and fatigue without diagnosing medical conditions or promising immediate cures.",
+    "behindTheScenes": [
+      {
+        "label": "The Set",
+        "desc": "A warm, natural living room sofa setup designed to feel intimately like home so the dizziness feels universally relatable.",
+        "image": "./assets/case-studies/Fero_Case_Study_Portrait/image2.png"
+      },
+      {
+        "label": "The Camera",
+        "desc": "Pre-planned gimbal movement and handheld whip-pan to trigger the disorienting camera shake the exact split-second Sarah stands.",
+        "image": "./assets/case-studies/Fero_Case_Study_Portrait/image3.png"
+      },
+      {
+        "label": "The Performance",
+        "desc": "Directed talent to capture a genuine, subtle physical head rush and authentic disorientation without cartoonish overacting.",
+        "image": "./assets/case-studies/Fero_Case_Study_Portrait/image4.png"
+      },
+      {
+        "label": "The Edit",
+        "desc": "Precision vertigo zoom blur, kinetic subtitle pacing ('do not Be Like Her'), and disorienting muffled audio cues.",
+        "image": "./assets/case-studies/Fero_Case_Study_Portrait/image5.png"
+      }
+    ],
+    "outcomes": {
+      "distribution": "Published on Nutrifactor's official Instagram and deployed across Meta paid ads targeting wellness and seasonal audiences.",
+      "feedOptimization": "Built for sound-off viewing: instant physical action, visual vertigo, and bold graphic callouts ensure 100% comprehension.",
+      "nextIteration": "Modular copy architecture allows swapping the opening line to adapt seamlessly outside Ramadan for late-night study or missed meal fatigue."
+    }
+  },
+  {
+    "id": "sundion",
+    "slug": "sundion",
+    "brand": "Nutrifactor",
+    "product": "Sundion (Vitamin D3 200,000 IU)",
+    "format": "Studio Explainer Video (9:16 Vertical)",
+    "title": "Three Years Slower?",
+    "headline": "Translating complex Harvard research into a viral story.",
+    "category": "Science Journalism / High Potency",
+    "heroImage": "./assets/hero/hero_card_sundion.png",
+    "fullSlide": "./assets/case-studies/Sundion_Case_Study_Portrait/slide_full.png",
+    "accentColor": "#eab308",
+    "themeBg": "#fefce8",
+    "videoDuration": "0:50",
+    "videoUrl": "https://youtube.com/shorts/DVuo8JC2K1c?feature=share",
+    "aspectRatio": "9:16",
+    "demoThumbnail": "./assets/hero/hero_card_sundion.png",
+    "role": "Concept · Script · Set Direction · Talent Direction · Edit Direction",
+    "brief": {
+      "take": "TAKE 2 · THE BRIEF",
+      "title": "Revitalizing a Common Supplement",
+      "content": "Everyone has heard 'take your Vitamin D', and most consumers habitually scroll past it. A recent Harvard study examining cellular aging and telomeres provided a compelling hook. My mission was to leverage this research to command attention, explain it responsibly without hype, and position Sundion 200,000 IU as the high-potency solution."
+    },
+    "idea": {
+      "take": "TAKE 3 · THE IDEA",
+      "title": "Start with the headline. Then tell the truth.",
+      "content": "Rather than an aggressive sales pitch, we designed an intimate podcast-style aesthetic: a host in a comfortable armchair with a broadcast microphone explaining scientific findings in clear language. The script explicitly debunks sensationalism: 'Vitamin D does not magically reverse aging by three years.' That immediate honesty is what earns viewer trust."
+    },
+    "scriptBeats": [
+      {
+        "beat": "The Research Hook",
+        "time": "0:00 - 0:08",
+        "happens": "“A recent Harvard study revealed that people taking regular Vitamin D3 showed cellular aging nearly 3 years slower.”",
+        "why": "Leads with a specific, peer-reviewed statistic and official journal graphics to spark deep curiosity."
+      },
+      {
+        "beat": "The Reality Check",
+        "time": "0:08 - 0:18",
+        "happens": "“Now, this doesn't mean Vitamin D turns back the clock 3 years. Scientists measured telomeres inside cells.”",
+        "why": "Dismantles clickbait before the viewer can doubt it, establishing radical brand credibility."
+      },
+      {
+        "beat": "The Broader Impact",
+        "time": "0:18 - 0:28",
+        "happens": "Highlights broader systemic benefits: bone density, muscular function, immunity, and emotional well-being.",
+        "why": "Bridges an academic longevity concept to daily health outcomes the viewer already prioritizes."
+      },
+      {
+        "beat": "The Hidden Problem",
+        "time": "0:28 - 0:38",
+        "happens": "“Over 70% of urban adults are clinically Vitamin D deficient without knowing it.”",
+        "why": "Shifts the narrative from passive curiosity to active personal urgency."
+      },
+      {
+        "beat": "The Solution & CTA",
+        "time": "0:38 - 0:50",
+        "happens": "Introduces Nutrifactor Sundion 200,000 IU softgel for rapid restoration of optimal Vitamin D levels.",
+        "why": "The product arrives as the logical, doctor-approved remedy only after the educational arc is complete."
+      }
+    ],
+    "claimsNote": "Grounds all language in published clinical telomere length studies, avoiding any anti-aging hyperbole.",
+    "behindTheScenes": [
+      {
+        "label": "The Set",
+        "desc": "Cozy podcast corner: modern cream armchair, Shure broadcast mic, warm ambient lamp, and clean off-white backdrop.",
+        "image": "./assets/case-studies/Sundion_Case_Study_Portrait/image2.png"
+      },
+      {
+        "label": "The Performance",
+        "desc": "Spoken-word bilingual delivery (Urdu-English blend) coached for natural hand gestures and warm, accessible vocal pacing.",
+        "image": "./assets/case-studies/Sundion_Case_Study_Portrait/image3.png"
+      },
+      {
+        "label": "The Proof Layer",
+        "desc": "Harvard Gazette research article overlaid directly on screen to validate claims with tangible citations.",
+        "image": "./assets/case-studies/Sundion_Case_Study_Portrait/image4.png"
+      },
+      {
+        "label": "The Medical Graphics",
+        "desc": "Visual chromosome diagrams illustrating telomere caps and a split-face comparison graphic to make abstract cellular science intuitive.",
+        "image": "./assets/case-studies/Sundion_Case_Study_Portrait/image5.png"
+      }
+    ],
+    "outcomes": {
+      "distribution": "Shared across Nutrifactor's educational channels and deployed as a trust-building ad creative.",
+      "feedOptimization": "Strong visual citations and podcast atmosphere generated above-average watch times and comment engagement.",
+      "nextIteration": "Produce an animated metaphor series comparing telomeres to shoelace aglets for even simpler comprehension."
+    }
+  }
+]

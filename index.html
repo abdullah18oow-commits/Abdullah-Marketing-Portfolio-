@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Senior Content Strategist & Video Producer · Portfolio</title>
+  <meta name="description" content="Portfolio of Senior Marketing Officer & Lead Content Strategist at Nutrifactor Laboratories. High-impact short-form commercial scripts, set direction, and retention-engineered campaigns.">
+  <meta property="og:title" content="Senior Content Strategist & Video Producer · Portfolio">
+  <meta property="og:description" content="Show the loop before you sell the fix. 200+ commercials produced, 15M+ views, and end-to-end script-to-screen execution.">
+  <meta property="og:type" content="website">
+  
+  <link rel="stylesheet" href="./style.css">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>">
+</head>
+<body>
+
+
+
+  <!-- TOP FIXED HEADER (SPENCER GABOR INSPIRED NAVIGATION & LIVE STATUS) -->
+  <header class="header">
+    <nav class="header__nav">
+      <a href="#featured" class="pill-btn secondary header__pill">Featured</a>
+      <a href="#more-work" class="pill-btn secondary header__pill">Catalog</a>
+      <a href="#about" class="pill-btn primary header__pill">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- HERO SECTION (SPENCER GABOR INSPIRED SPACING, POPPING ANIMATIONS & ELASTIC PHYSICS) -->
+    <section class="hero" id="hero" mounted="false">
+      <div class="hero__mid" id="heroMid">
+        <!-- Hero Top Metadata -->
+        <div class="hero__top" id="heroTop">
+          <p class="hero__location">Bayonne, France</p>
+          <a href="mailto:abdullahashraf3301@gmail.com" class="hero__email">abdullahashraf3301@gmail.com</a>
+        </div>
+
+        <!-- Headline Top with Individual Popping Words -->
+        <h1 class="hero__headline-top" aria-label="Abdullah Ashraf">
+          <span class="word" style="--delay: 0;" aria-hidden="true">Abdullah</span>
+          <span class="word" style="--delay: 1;" aria-hidden="true">Ashraf</span>
+        </h1>
+
+        <!-- The 4 Dynamic Floating Hero Cards (Spencer Gabor Interactive Elastic Physics) -->
+        <div class="hero__images" id="heroImages" aria-label="Interactive commercial campaign cards">
+          <!-- Card 1: BZOLVE (Tadaaaa!) -->
+          <div class="hero__image" style="--delay: 0;" data-index="0" title="BZOLVE Tadaaaa Commercial">
+            <div class="shadow"></div>
+            <img src="./assets/hero/hero_card_bzolve.png" alt="BZOLVE Tadaaaa Energy Commercial" draggable="false" loading="eager">
+          </div>
+          <!-- Card 2: Collagatin (Water vs Water Pro Max) -->
+          <div class="hero__image" style="--delay: 1;" data-index="1" title="Collagatin Water vs Water Pro Max">
+            <div class="shadow"></div>
+            <img src="./assets/hero/hero_card_collagatin.png" alt="Water vs Water Pro Max Commercial" draggable="false" loading="eager">
+          </div>
+          <!-- Card 3: Sundion (Studio Longevity Explainer) -->
+          <div class="hero__image" style="--delay: 2;" data-index="2" title="Sundion Studio Explainer">
+            <div class="shadow"></div>
+            <img src="./assets/hero/hero_card_sundion.png" alt="Sundion Studio Explainer Commercial" draggable="false" loading="eager">
+          </div>
+          <!-- Card 4: Cellcense (Inside Out Routine) -->
+          <div class="hero__image" style="--delay: 3;" data-index="3" title="Cellcense Inside Out Routine">
+            <div class="shadow"></div>
+            <img src="./assets/hero/hero_card_cellcense.png" alt="Inside Out Routine Commercial" draggable="false" loading="eager">
+          </div>
+        </div>
+
+        <!-- Headline Bottom with Dynamic Scrolling Word Rotator -->
+        <h2 class="hero__headline-bot" id="heroHeadlineBot" aria-label="Content Strategist, Scripting, Direction, Scaling &amp; Digital Marketing">
+          <span class="hero__role-line">
+            <span class="word" style="--delay: 2;" aria-hidden="true">Content</span>
+            <span class="space" aria-hidden="true"></span>
+            <span class="word" style="--delay: 3;" aria-hidden="true">Strategist,</span>
+          </span>
+          <span class="hero__role-line">
+            <span class="hero__word-rotator word" id="heroWordRotator" style="--delay: 4;" aria-label="Scripting, Direction, Scaling">
+              <span class="hero__rotator-track" id="heroRotatorTrack">
+                <span class="hero__rotator-word" data-word="Scripting">Scripting</span>
+                <span class="hero__rotator-word" data-word="Direction">Direction</span>
+                <span class="hero__rotator-word" data-word="Scaling">Scaling</span>
+                <span class="hero__rotator-word" data-word="Scripting" aria-hidden="true">Scripting</span>
+              </span>
+            </span>
+            <span class="space" aria-hidden="true"></span>
+            <span class="word" style="--delay: 6;" aria-hidden="true">&amp;</span>
+            <span class="space" aria-hidden="true"></span>
+            <span class="word" style="--delay: 7;" aria-hidden="true">Digital</span>
+            <span class="space" aria-hidden="true"></span>
+            <span class="word" style="--delay: 8;" aria-hidden="true">Marketing</span>
+          </span>
+        </h2>
+      </div>
+
+      <!-- Hero Bottom Brands Directed -->
+      <div class="hero__bot" id="heroBot">
+        <p class="hero__clients-label">Brands & Productions Directed</p>
+        <p class="hero__clients-list">Nutrifactor Laboratories · Cellcense Skincare · Direct-to-Consumer</p>
+      </div>
+    </section>
+
+    <!-- SECTION: FEATURED WORK (CURVED CAROUSEL WHEEL) -->
+    <section class="featured-section" id="featured">
+      <div class="section-header">
+        <span class="section-tag">Case Studies</span>
+        <h3 class="section-title">Featured Work</h3>
+        <p class="section-desc">Select recent and notable commercial campaigns. Drag or scroll to explore.</p>
+      </div>
+
+      <div class="carousel-container" id="carouselContainer">
+        <div class="carousel-track" id="carouselTrack">
+          <!-- Dynamic cards injected from data.js -->
+        </div>
+      </div>
+
+      <div class="carousel-controls">
+        <button class="carousel-nav-btn" id="prevSlide" aria-label="Previous Project">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        </button>
+        <div class="carousel-dots" id="carouselDots" aria-label="Slide indicators"></div>
+        <button class="carousel-nav-btn" id="nextSlide" aria-label="Next Project">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- SECTION: CREATIVE DIRECTION FRAMEWORK (PROCESS) -->
+    <section class="process-section" id="process">
+      <div class="section-header">
+        <span class="section-tag">Methodology</span>
+        <h2 class="section-title">My Creative Framework: The Script-to-Screen Engine</h2>
+        <h3 class="section-desc">How scientific wellness products are transformed into viral, high-converting commercials.</h3>
+      </div>
+
+      <div class="process-grid" id="processGrid">
+        <!-- Rendered from data.js -->
+      </div>
+    </section>
+
+    <!-- SECTION: MORE WORK -->
+    <section class="more-work-section" id="more-work">
+      <div class="section-header">
+        <h3 class="section-title">More Work</h3>
+        <p class="section-desc">Take a scroll, stay a while. Commercials, explainers & social ad creatives.</p>
+      </div>
+
+      <!-- Work Grid -->
+      <div class="more-work-grid" id="moreWorkGrid">
+        <!-- Injected dynamically from data.js -->
+      </div>
+
+      <!-- Load More Pill Action -->
+      <div class="more-work-actions" id="moreWorkActions">
+        <button class="pill-btn secondary" id="loadMoreBtn" type="button" aria-label="Load more commercials">
+          <span>Load More</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- SECTION: ABOUT & PHILOSOPHY -->
+    <section class="about-section" id="about">
+      <div class="about-container">
+        <div class="about-content">
+          <span class="section-tag">Background & Impact</span>
+          <h3 class="about-title">Directing Stories That Sell Without Selling Out</h3>
+          <p class="about-text">
+            As a Senior Marketing Officer and Content Strategist at Nutrifactor Laboratories, I lead the creative bridge between pharmaceutical formulation and modern short-form feeds. From scouting the right host to directing lighting and choreographing every camera move, my mission is to deliver authentic, high-retention video assets that build genuine brand equity.
+          </p>
+          <div class="about-highlights">
+            <div class="stat-item">
+              <span class="stat-val">200+</span>
+              <span class="stat-lbl">Commercials Produced</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-val">15M+</span>
+              <span class="stat-lbl">Audience Reach</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-val">100+</span>
+              <span class="stat-lbl">SKUs Optimized</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-val">100%</span>
+              <span class="stat-lbl">Health Claim Compliance</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="about-card-visual">
+          <span class="quote-badge">Core Creative Thesis</span>
+          <p class="quote-text">“Show the loop before you sell the fix. Make the habit the hero, and the product becomes the only obvious answer.”</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- MASSIVE TYPOGRAPHIC FOOTER -->
+  <footer class="footer">
+    <h2 class="footer__giant-title">Let’s Build Something Iconic</h2>
+    
+    <div class="footer__links-row">
+      <a href="mailto:abdullahashraf3301@gmail.com" class="footer-link">Email</a>
+      <a href="https://linkedin.com" target="_blank" rel="noopener" class="footer-link">LinkedIn</a>
+      <a href="https://instagram.com" target="_blank" rel="noopener" class="footer-link">Instagram</a>
+      <a href="https://wa.me/" target="_blank" rel="noopener" class="footer-link">WhatsApp</a>
+      <a href="#hero" class="footer-link" id="backToTop">Back to Top ↑</a>
+    </div>
+
+    <p class="footer__copy">© 2026 Creative Portfolio · Nutrifactor Laboratories Strategy & Video Direction</p>
+  </footer>
+
+  <!-- FLOATING SPENCER GABOR THEME SWITCHER -->
+  <div class="theme-picker-widget" id="themePicker">
+    <div class="theme-menu-palette" id="themePalette">
+      <!-- Theme circles injected from data.js -->
+    </div>
+    <button class="theme-toggle-btn" id="themeToggleBtn" aria-label="Toggle Color Theme">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10c1.38 0 2.5-1.12 2.5-2.5 0-.61-.23-1.21-.64-1.67-.08-.1-.13-.23-.13-.36 0-.28.22-.5.5-.5H16c3.31 0 6-2.69 6-6 0-4.96-4.49-9-10-9zm-5.5 8c-.83 0-1.5-.67-1.5-1.5S5.67 7 6.5 7s1.5.67 1.5 1.5S7.33 10 6.5 10zm3-4c-.83 0-1.5-.67-1.5-1.5S8.67 3 9.5 3s1.5.67 1.5 1.5S10.33 6 9.5 6zm5 0c-.83 0-1.5-.67-1.5-1.5S13.67 3 14.5 3s1.5.67 1.5 1.5S15.33 6 14.5 6zm3 4c-.83 0-1.5-.67-1.5-1.5S16.67 7 17.5 7s1.5.67 1.5 1.5S18.33 10 17.5 10z"/>
+      </svg>
+    </button>
+  </div>
+
+  <!-- CASE STUDY DETAIL MODAL (FULL EXPERIENCE) -->
+  <div class="modal-overlay" id="caseStudyModal" aria-hidden="true" role="dialog">
+    <div class="modal-window">
+      <!-- Sticky Close Header -->
+      <div class="modal-sticky-header">
+        <div class="modal-breadcrumbs" id="modalBreadcrumb">Case Study · Collagatin</div>
+        <button class="modal-close-btn" id="modalCloseBtn" aria-label="Close Case Study">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Dynamic Modal Content Area -->
+      <div class="modal-body" id="modalBodyContent">
+        <!-- Rendered on demand by main.js -->
+      </div>
+    </div>
+  </div>
+
+  <!-- QUICK VIDEO MODAL FOR MORE WORK -->
+  <div class="modal-overlay" id="quickVideoModal" aria-hidden="true" role="dialog">
+    <div class="modal-window" style="max-width: 720px;">
+      <div class="modal-sticky-header">
+        <div class="modal-breadcrumbs" id="quickVideoBreadcrumb">Commercial Video Preview</div>
+        <button class="modal-close-btn" id="quickVideoCloseBtn" aria-label="Close Preview">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body" id="quickVideoBody" style="padding: 2rem;">
+        <!-- Injected dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Application Logic -->
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
