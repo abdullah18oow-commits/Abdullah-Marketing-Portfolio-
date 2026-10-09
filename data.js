@@ -9,6 +9,7 @@ export const PROFILE = {
   company: "Creative Commercial Direction",
   location: "Bayonne, France",
   email: "abdullahashraf3301@gmail.com",
+  linkedin: "https://www.linkedin.com/in/abdullahashraf-18o",
   taglines: [
     "From Product Science to Thumb-Stopping Commercials",
     "Show the loop before you sell the fix.",
